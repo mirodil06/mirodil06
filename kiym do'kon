@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="dizayn.css">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <div class="glavniy">
+        <div>
+            <img src="https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dCUyMHNoaXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+                alt="bolalar fudbolkasi">
+            <ul>
+                <li>model turkiya</li>
+                <li>moda 2020</li>
+                <li>narxi $5</li>
+                <li><span>VIP BREND</span></li>
+            </ul>
+        </div>
+        <div>
+            <img src="https://images.unsplash.com/photo-1598032895397-b9472444bf93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+                alt="oq ko'yne">
+            <ul>
+                <li>model turkiya</li>
+                <li>moda 2020</li>
+                <li>narxi $10</li>
+                <li><span>VIP BREND</span></li>
+            </ul>
+        </div>
+        <div>
+            <img src="https://media.istockphoto.com/id/942333622/photo/cropped-shot-of-handsome-businessman-in-stylish-suit-in-front-of-concrete-wall.jpg?s=2048x2048&w=is&k=20&c=Py0tFt82zEmhgmv8aSPzRWNZFPgT8JQqRfn4hYiotAI="
+                alt="kastum">
+            <ul>
+                <li>model turkiya</li>
+                <li> moda 2022</li>
+                <li>narxi $100</li>
+                <li><SPan>VIP BREND</SPan></li>
+            </ul>
+        </div>
+    </div>
+    <a href="http://www.VIP BREND.com">VIP BREND</a>
+    <link rel="stylesheet" href="VIP BREND">
+</body>
+
+</html>
+
+<!---
+mirodil06/mirodil06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
